@@ -3,7 +3,7 @@ permalink: /econometrie/
 title: "Économétrie"
 ---
 
-### Les cryptos battent-elles le marché ? Une analyse rigoureuse du risque et de la performance
+# ⬛ Les cryptos battent-elles le marché ? Une analyse rigoureuse du risque et de la performance
 
 <iframe src="https://drive.google.com/file/d/11jlfMQnVzUomAjueXRYYrr17PR0khLKi/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -24,8 +24,7 @@ title: "Économétrie"
 ---
 
 
-## 🟦 Exposition sectorielle aux facteurs de risque –
-### Analyse factorielle de 48 industries
+##  ⬛ Exposition sectorielle aux facteurs de risque – Analyse factorielle de 48 industries
 
 <iframe src="https://drive.google.com/file/d/1oqF2FgoGdnohuMzJ-usEUn6tnMwWti-S/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -46,19 +45,38 @@ Ce rapport examine comment les 48 industries américaines sont exposées aux cin
 **Compétences démontrées :**
 > Maîtrise des modèles multifactoriels appliqués à l’analyse de portefeuille, interprétation dynamique des tendances de marché.
 
+---
 
+### ⬛ Quelle stratégie surperforme vraiment ? – Analyse comparative de portefeuilles optimisés
 
-
-
-
-
-
-
-
-
-
-
-
-- Exposition aux facteurs de risque et primes de risqu
-  
 <iframe src="https://drive.google.com/file/d/19DmnNegsyYVyhsX7PfXf7HNw9h-fV7Dp/preview" width="640" height="480" allow="autoplay"></iframe>
+
+**Aperçu**  
+Ce projet met en œuvre plusieurs stratégies d’optimisation de portefeuille appliquées à dix industries américaines faiblement corrélées, en comparant leur performance sur 10 ans. Les approches incluent :
+
+- Équipondération
+- Variance minimale (long-only et long-short)
+- Maximisation du ratio de Sharpe
+- Modèle moyenne-variance avec contrainte de rendement
+
+L’analyse repose sur une évaluation dynamique en fenêtres glissantes (2015–2024), avec le S&P 500 comme benchmark.
+
+**Résultats clés :**
+- Les portefeuilles **long-short optimisés sur Sharpe (historique)** obtiennent les meilleurs P&L cumulés et ratios de Sharpe globaux
+- Les approches naïves (équipondéré) performent ponctuellement, mais restent inférieures sur le long terme
+- Les matrices factorielles ne surpassent pas systématiquement les estimations historiques
+
+**Méthodologie :**
+- Sélection sectorielle faible corrélation
+- Optimisation quadratique sous contraintes
+- Matrices de variance-covariance : historique vs factorielle
+- Évaluation ex-ante et glissante
+
+**Compétences démontrées :**
+> Maîtrise des techniques d’optimisation de portefeuille et capacité à interpréter des résultats dynamiques dans un cadre institutionnel.
+
+
+
+
+
+
