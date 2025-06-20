@@ -1,0 +1,5 @@
+---
+permalink: /econometrie/
+title: "Économétrie"
+---
+
