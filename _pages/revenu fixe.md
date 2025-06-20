@@ -2,18 +2,18 @@
 permalink: /revenu fixe/
 title: "Revenu fixe"
 ---
-## Stratégies sur la courbe des taux – Brésil vs Japon  
+## ⬛ Stratégies sur la courbe des taux – Brésil vs Japon  
 
 <iframe src="https://drive.google.com/file/d/1y5bs13ahtA7SmPdSbSAYhyaK-kVk4ap7/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
 **Aperçu** 
 
-Ce travail de session combine trois volets complémentaires sur la gestion de portefeuille obligataire :  
-- **Partie A** : analyse macroéconomique du Brésil  
-- **Partie B** : stratégie de carry trade JPY/BRL (version brute et filtrée)  
-- **Partie C** : arbitrages dynamiques sur la courbe des taux  
+Ce travail sur la gestion de portefeuille obligataire explore:  
+ 
+- Stratégie de carry trade JPY/BRL (version brute et filtrée)  
+- Arbitrages dynamiques sur la courbe des taux  
 
-Les données ont été traitées et modélisées à l’aide de **fichiers Excel avancés** (Partie A, B et C), incluant calculs de rendements annualisés, ratio de Sharpe, skewness, simulation de scénarios macroéconomiques et identification de trades optimaux sur la courbe des taux.
+Les données ont été traitées et modélisées à l’aide d' **Excels avancés** (voir plus bas), incluant calculs de rendements annualisés, ratio de Sharpe, skewness, simulation de scénarios macroéconomiques et identification de trades optimaux sur la courbe des taux.
 
 **Résultats clés**  
 
