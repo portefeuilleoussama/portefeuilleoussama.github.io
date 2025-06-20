@@ -3,6 +3,7 @@ permalink: /econometrie/
 title: "Économétrie"
 ---
 
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 40px; background-color: #f9f9f9;">
 ### Les cryptos battent-elles le marché ? Une analyse rigoureuse du risque et de la performance
 
 <iframe src="https://drive.google.com/file/d/11jlfMQnVzUomAjueXRYYrr17PR0khLKi/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -20,7 +21,7 @@ title: "Économétrie"
 - Portefeuille équipondéré
 - Analyse comparative avec le marché traditionnel
 - Implémentation complète en MATLAB
-
+</div>
 
 ### Exposition sectorielle aux facteurs de risque – Analyse factorielle de 48 industries
 
