@@ -21,7 +21,6 @@ Le tout a été réalisé via **Excel** et **Portfolio Visualizer**, avec une at
 - Cette expérience illustre le **paradoxe de l’aléatoire**, et montre que **la rigueur théorique ne garantit pas la performance à court terme**, surtout en environnement incertain.
 - Toutefois, le Portefeuille B demeure potentiellement plus résilient à long terme, grâce à sa diversification sectorielle et à sa sélection fondée sur les fondamentaux.
 
-
 ---
 
 ## ⬛ Bitcoin – Origines, fonctionnement et défis économiques  
