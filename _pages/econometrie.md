@@ -21,7 +21,11 @@ title: "Économétrie"
 - Analyse comparative avec le marché traditionnel
 - Implémentation complète en MATLAB
 
-### Exposition sectorielle aux facteurs de risque – Analyse factorielle de 48 industries
+---
+
+
+## 🟦 Exposition sectorielle aux facteurs de risque –
+### Analyse factorielle de 48 industries
 
 <iframe src="https://drive.google.com/file/d/1oqF2FgoGdnohuMzJ-usEUn6tnMwWti-S/preview" width="640" height="480" allow="autoplay"></iframe>
 
