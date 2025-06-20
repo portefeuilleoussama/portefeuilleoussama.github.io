@@ -2,7 +2,7 @@
 permalink: /revenu fixe/
 title: "Revenu fixe"
 ---
-- Yield Curve Strategies
+- Carry Trade et Yield curve Trades: Brésil & Japon
 
 <iframe src="https://drive.google.com/file/d/1y5bs13ahtA7SmPdSbSAYhyaK-kVk4ap7/preview" width="640" height="480" allow="autoplay"></iframe>
 
