@@ -5,7 +5,7 @@ title: "Économétrie"
 
 - Analyse rendement cryptomonnaies
   
-<iframe src="https://drive.google.com/file/d/11jlfMQnVzUomAjueXRYYrr17PR0khLKi/preview" width="640" height="880" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/11jlfMQnVzUomAjueXRYYrr17PR0khLKi/preview" width="640" height="780" allow="autoplay"></iframe>
 
 - Exposition aux facteurs de risque
 
