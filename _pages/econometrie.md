@@ -6,7 +6,7 @@ title: "Économétrie"
 ## ⬛ Les cryptos battent-elles le marché ? Une analyse du risque et de la performance
 
 <iframe src="https://drive.google.com/file/d/11jlfMQnVzUomAjueXRYYrr17PR0khLKi/preview" width="640" height="480" allow="autoplay"></iframe>
-
+<br>
 **Aperçu**  
 
 Ce rapport évalue le potentiel des cryptomonnaies comme classe d’actifs, à partir de données historiques entre 2016 et 2019. L’analyse porte sur cinq cryptos (Bitcoin, Digibyte, Litecoin, Maidsafecoin et NXT), comparées au S&P 500, à travers leurs rendements, volatilités, et ratios de performance.  
@@ -27,10 +27,11 @@ Le tout a été codé en **MATLAB**, incluant extraction de données, calculs de
 ##  ⬛ Exposition sectorielle aux facteurs de risque – Analyse factorielle de 48 industries
 
 <iframe src="https://drive.google.com/file/d/1oqF2FgoGdnohuMzJ-usEUn6tnMwWti-S/preview" width="640" height="480" allow="autoplay"></iframe>
-
+<br>
 **Aperçu**  
 
-Ce projet applique le modèle de Fama-French à cinq facteurs à 48 portefeuilles sectoriels américains de 2000 à 2024. L’objectif : quantifier l’exposition de chaque industrie aux facteurs de risque (marché, taille, valeur, rentabilité, investissement) et estimer les primes associées.  
+Ce projet applique le modèle de Fama-French à cinq facteurs à 48 portefeuilles sectoriels américains de 2000 à 2024. L’objectif : quantifier l’exposition de chaque industrie aux facteurs de risque (marché, taille, valeur, rentabilité, investissement) et estimer les primes associées.
+
 L’analyse a été codée en **Python**, incluant la régression en deux étapes (two-pass regression), des visualisations de l’évolution des bêtas et primes dans le temps, et une structuration par fenêtres fixes et glissantes.
 
 **Résultats clés**
@@ -46,10 +47,11 @@ L’analyse a été codée en **Python**, incluant la régression en deux étape
 ## ⬛ Quelle stratégie surperforme vraiment ? – Analyse comparative de portefeuilles optimisés
 
 <iframe src="https://drive.google.com/file/d/19DmnNegsyYVyhsX7PfXf7HNw9h-fV7Dp/preview" width="640" height="480" allow="autoplay"></iframe>
-
+<br>
 **Aperçu**  
 
 Ce projet vise à identifier les portefeuilles les plus performants parmi différentes stratégies d’optimisation, en utilisant des données industrielles américaines et des facteurs Fama-French. Quatre approches sont comparées : équipondération, variance minimale, Sharpe maximal, et moyenne-variance sous contrainte de rendement, chacune en version long-only et long-short.  
+
 Le tout a été codé en **Python**, avec génération des matrices de variance-covariance (historique et factorielle), implémentation des optimisations, et suivi de performance en fenêtres glissantes sur 10 ans.
 
 **Résultats clés**
