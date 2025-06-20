@@ -41,7 +41,6 @@ L’analyse a été codée en **Python**, incluant la régression en deux étape
 - Le facteur SMB (taille) devient plus instable après 2015, en lien avec la domination des mega-caps.
 - Les primes associées à la rentabilité (RMW) et à l’investissement (CMA) montrent des tendances contrastées après 2020, reflétant l’adaptation des marchés aux chocs macroéconomiques.
 
-
 ---
 
 ## ⬛ Quelle stratégie surperforme vraiment ? – Analyse comparative de portefeuilles optimisés
