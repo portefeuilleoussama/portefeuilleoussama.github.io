@@ -9,8 +9,8 @@ title: "Finance corpo"
 **Aperçu**
 
 Ce rapport explore la faisabilité stratégique, financière et réglementaire de l’acquisition de **Five Below** par **Dollarama**, dans un contexte de saturation du marché canadien et d’expansion internationale.  
-Nous avons mobilisé des outils d’analyse approfondie, incluant une **évaluation DCF**, une **analyse des comparables**, l'étude des **forces de Porter**, ainsi que des considérations de structuration juridique (Reverse Triangular Merger).  
-L’analyse est le fruit d’un travail rigoureux combinant modélisation financière, lecture sectorielle macroéconomique et logique de création de valeur pour les actionnaires.
+
+Nous avons mobilisé des outils d’analyse approfondie, incluant une **évaluation DCF**, une **analyse des comparables**, l'étude des **forces de Porter**, ainsi que des considérations de structuration juridique (Reverse Triangular Merger). L’analyse est le fruit d’un travail rigoureux combinant modélisation financière, lecture sectorielle macroéconomique et logique de création de valeur pour les actionnaires.
 
 **Résultats clés**
 
@@ -29,7 +29,8 @@ L’analyse est le fruit d’un travail rigoureux combinant modélisation financ
 
 **Aperçu**  
 
-Ce rapport explore la structure de capital de six entreprises de différents secteurs, à travers une analyse comparative de leur niveau d’endettement, de leur coût du capital (WACC) et de la volatilité associée.  
+Ce rapport explore la structure de capital de six entreprises de différents secteurs, à travers une analyse comparative de leur niveau d’endettement, de leur coût du capital (WACC) et de la volatilité associée.
+
 L’analyse mobilise des données de marché et des données comptables, combinant **recherche documentaire**, **calculs manuels en Excel** et **modélisation DCF simplifiée** pour certains cas. Elle s’appuie sur les théories de **Modigliani & Miller**, le **trade-off**, et la **pecking order theory** pour évaluer les choix de financement des firmes.
 
 **Résultats clés**
@@ -47,7 +48,8 @@ L’analyse mobilise des données de marché et des données comptables, combina
 <br>
 **Aperçu**  
 
-Ce rapport analyse la politique de rémunération des actionnaires d’Imperial Oil, en croisant l’évolution historique des dividendes et des rachats d’actions avec les flux de trésorerie disponibles et la rentabilité de l’entreprise.  
+Ce rapport analyse la politique de rémunération des actionnaires d’Imperial Oil, en croisant l’évolution historique des dividendes et des rachats d’actions avec les flux de trésorerie disponibles et la rentabilité de l’entreprise. 
+
 L’approche adoptée combine **analyse comptable**, **données de marché**, et **modélisation Excel**, en s’appuyant sur les méthodes d’évaluation du ratio de distribution et du **Free Cash Flow to Equity (FCFE)**. Le tout est encadré par une réflexion théorique basée sur **les approches de Miller & Modigliani** et **la théorie du signal**.
 
 **Résultats clés**  
