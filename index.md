@@ -24,7 +24,7 @@ Pas votre portfolio typique. Je ne suis pas ici pour impressionner avec des buzz
 ## Qui suis-je ? (Mon histoire)
 
 <div style="text-align: justify;">
-Ma passion pour la finance n’est pas théorique — elle est née dans le concret. En mars 2020, alors que les marchés s’effondraient, j’ai transformé un compte de trading de 2 500 $ en plus de 8 000 $ en seulement 8 jours. De la chance, du timing, de l’intuition — c’était peut-être un peu de tout ça. Mais pour moi, c’était une étincelle.</div>
+Ma passion pour la finance n’est pas théorique — elle est née dans le concret. En mars 2020, alors que les marchés s’effondraient, j’ai transformé un compte de trading de 2 500 $ en plus de 8 000 $ en seulement 8 jours. De la chance? Assurément. Mais pour moi, c’était une étincelle.</div>
 <br>
 [Voir les relevés de ces 8 jours ici (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)<br>
 <div style="text-align: justify;">
