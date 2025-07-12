@@ -64,13 +64,13 @@ author:
   links:
     - label: "Mon CV"
       icon: "fas fa-fw fa-link"
-      url: "https://drive.google.com/file/d/1MxGBytOvRoBRA0TaaAuHxQpdFRURSs9h/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1qCtZYndPqBAn9uL7k9OfCAZvwey0GH7-/view?usp=drive_link"
     - label: "Courriel"
       icon: "fas fa-fw fa-link"
       url: "mailto:oussama.elhadi@hotmail.com"
     - label: "Linkedin"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/oussama-e-75665b229/"
+      url: "https://www.linkedin.com/in/ousselhadi/"
 
 defaults:
   # _posts
