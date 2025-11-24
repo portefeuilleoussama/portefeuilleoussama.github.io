@@ -46,7 +46,7 @@ J’apprends tout ce que je peux :
 
 - Théorie de portefeuille, modèles de risque, évaluation
 - Options, produits dérivés, stratégies macro
-- Python, MATLAB, SQL
+- Python, MATLAB
 
 <div style="text-align: justify;">
 J’ai aussi compris que la finance va au-delà des marchés. Je m’intéresse désormais aussi à la finance d’entreprise, la banque d’investissement, et d’autres domaines. Je n’ai pas de chemin tracé à l’avance. Je suis ouvert à toute opportunité qui me permettra d’apprendre, de relever de vrais défis, et de progresser avec des gens motivés et compétents — que ce soit en recherche, en stratégie, en gestion d’actifs, ou dans un domaine auquel je n’ai même pas encore pensé.</div>
