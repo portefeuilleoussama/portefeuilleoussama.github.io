@@ -11,6 +11,8 @@ header:
   caption: "oussama.elhadi@hotmail.com | 438-866-7022"
 ---
 
+<p style="font-size: 0.9em; text-align: right;"><a href="https://oussamaportfolio.github.io/">For english, click here</a></p>
+
 # Oussama El Hadi  
 *Maîtrise en finance | Candidat CFA® II* 
 
@@ -74,6 +76,6 @@ Je cherche un stage pour cet automne afin de compléter ma maîtrise (diplômé 
 Si vous êtes recruteur, mentor, ou simplement quelqu’un qui souhaite échanger, n’hésitez pas à me contacter !
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [Mon CV](https://drive.google.com/file/d/1qCtZYndPqBAn9uL7k9OfCAZvwey0GH7-/view?usp=drive_link)  
+📄 [Mon CV](https://drive.google.com/file/d/1j34GAavcUjDBP5VTCNWoy_1Wxun8stDx/view?usp=sharing)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
