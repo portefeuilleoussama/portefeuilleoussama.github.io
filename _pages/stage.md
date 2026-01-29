@@ -1,6 +1,6 @@
 ---
 permalink: /stage/
-title: "Revenu fixe"
+title: "Stage"
 ---
 ## ⬛ Stratégies sur la courbe des taux – Brésil vs Japon  
 
