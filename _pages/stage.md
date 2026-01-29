@@ -2,27 +2,23 @@
 permalink: /stage/
 title: "Stage"
 ---
-## ⬛ Stratégies sur la courbe des taux – Brésil vs Japon  
+## ⬛ Transformation Numérique en Immobilier – Stage chez Investissements PSP
 
-<iframe src="https://drive.google.com/file/d/1y5bs13ahtA7SmPdSbSAYhyaK-kVk4ap7/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1j34GAavcUjDBP5VTCNWoy_1Wxun8stDx/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
-**Aperçu** 
+**Aperçu** Ce projet de stage réalisé au sein de l'équipe immobilière d' **Investissements PSP** explore l'intersection entre la finance immobilière traditionnelle et les nouvelles technologies :
 
-Ce travail sur la gestion de portefeuille obligataire explore:  
- 
-- Stratégie de carry trade JPY/BRL (version brute et filtrée)  
-- Arbitrages dynamiques sur la courbe des taux  
+* [cite_start]**Analyse de la PropTech** : Étude de l'impact des technologies émergentes sur la gestion d'actifs et les processus de location[cite: 13, 22].
+* [cite_start]**Transformation Numérique** : Revue stratégique des bénéfices et défis liés à l'intégration du Big Data, de l'IA et du BIM (Building Information Modeling) dans le secteur immobilier[cite: 4, 7, 10].
+* [cite_start]**Cadre Institutionnel** : Analyse de la performance et de la durabilité du modèle de gestion de PSP Investments dans un contexte macroéconomique en évolution[cite: 39, 43].
 
-Les données ont été traitées et modélisées à l’aide d' **Excels avancés** (voir plus bas), incluant calculs de rendements annualisés, ratio de Sharpe, skewness, simulation de scénarios macroéconomiques et identification de trades optimaux sur la courbe des taux.
+[cite_start]Les recherches s'appuient sur une revue rigoureuse de la littérature académique récente (2020-2025) et sur l'analyse des rapports annuels de l'organisation pour aligner les recommandations stratégiques avec les réalités du marché[cite: 3, 39].
 
-**Résultats clés**  
+[cite_start]**Résultats clés** * **Optimisation par l'IA** : L'adoption de solutions d'IA et de marketing analytique permet une meilleure précision dans l'évaluation des actifs et une gestion proactive des risques opérationnels[cite: 7, 24].
+* [cite_start]**Performance de PSP** : Malgré la volatilité des marchés, PSP a généré un rendement annuel solide (ex: 7,2 % en 2024), soutenu par une gestion rigoureuse du bêta et des investissements stratégiques[cite: 34, 37].
+* [cite_start]**Enjeux de Digitalisation** : L'identification des barrières à l'innovation, telles que la sécurité des données et les coûts d'adoption, est essentielle pour réussir le virage numérique vers l'immobilier "intelligent"[cite: 8, 27].
+* [cite_start]**Alignement Réglementaire** : Intégration des nouvelles normes (comme les normes CSSB) et des directives fédérales dans la stratégie d'investissement à long terme[cite: 35, 36].
+* [cite_start]**Conclusion Stratégique** : La transformation numérique n'est plus une option mais un levier de création de valeur indispensable pour maintenir la compétitivité d'un grand fonds de pension sur l'échiquier mondial[cite: 18, 29].
 
-- La stratégie de **carry brute** JPY/BRL affiche un rendement annuel modeste (5,92 %) et une volatilité élevée, peu attrayante sans filtrage.
-- En introduisant des **filtres macroéconomiques simples** (VIX < 20, inflation < 6 %, différentiel de taux > 2 %), le rendement passe à **10,8 %** avec un ratio de Sharpe de **0,75**.
-- Le **filtrage avancé** via un proxy de croissance industrielle (variation mensuelle) permet d’obtenir un Sharpe de **1,42** et un rendement annuel de **21 %**, avec une exposition mieux maîtrisée.
-- Les **trades sur la courbe des taux brésilienne** suggèrent de shorter les obligations à 10 ans, dans un contexte de hausse continue des taux directeurs et d’inflation structurelle.
-- La combinaison des trois volets offre une vision cohérente du **positionnement obligataire international**, tenant compte à la fois de l’environnement macro, du différentiel de taux, et de la structure temporelle.
-
-<iframe src="https://drive.google.com/file/d/17EWJoT38WNfV9Bk4WDbyiC9CuBFIZrWd/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1j34GAavcUjDBP5VTCNWoy_1Wxun8stDx/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
-<iframe src="https://drive.google.com/file/d/1F5wLLZgJABOUHz0FUFYXxOtYfiftgd3W/preview" width="640" height="480" allow="autoplay"></iframe>
