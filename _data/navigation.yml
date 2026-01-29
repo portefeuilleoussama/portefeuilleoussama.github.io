@@ -9,3 +9,5 @@ main:
     url: /revenu fixe/
   - title: "Évaluation"
     url: /evaluation/
+  - title: "Stage"
+    url: /stage/
