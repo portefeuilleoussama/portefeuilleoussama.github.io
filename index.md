@@ -71,7 +71,7 @@ Chaque projet présenté ici reflète quelque chose qui m’a intrigué, posé p
 ## Contact
 
 <div style="text-align: justify;">
-Je cherche un stage pour cet automne afin de compléter ma maîtrise (diplômé prévu à l’automne 2025). Mais au-delà de ça, je cherche une vraie chance — un endroit où continuer d’apprendre, contribuer, et faire partie de quelque chose de concret.</div>
+En tant que nouveau diplômé, je cherche une opportunité de stage ou de poste junior pour continuer mon développement. Mais au-delà de ça, je cherche une vraie chance — un endroit où continuer d’apprendre, contribuer, et faire partie de quelque chose de concret.</div>
 <br>
 Si vous êtes recruteur, mentor, ou simplement quelqu’un qui souhaite échanger, n’hésitez pas à me contacter !
 
