@@ -76,6 +76,6 @@ Je cherche un stage pour cet automne afin de compléter ma maîtrise (diplômé 
 Si vous êtes recruteur, mentor, ou simplement quelqu’un qui souhaite échanger, n’hésitez pas à me contacter !
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [Mon CV](https://drive.google.com/file/d/1j34GAavcUjDBP5VTCNWoy_1Wxun8stDx/view?usp=sharing)  
+📄 [Mon CV](https://drive.google.com/file/d/1CVKqEmWjUQaohpZciKpauTUgpfXaV3Kp/view?usp=sharing)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
