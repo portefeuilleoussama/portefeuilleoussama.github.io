@@ -40,7 +40,7 @@ Depuis, je continue de trader en parallèle — surtout des indices et des mati�
 Je suis étudiant en finance à Montréal, et j’essaie de faire ma place dans le milieu. C’est un monde compétitif. C’est intimidant. Mais je ne suis pas ici parce que c’est facile. Je suis ici parce que je crois pouvoir apporter de la valeur, et je suis prêt à travailler pour le prouver. J’ai réussi le niveau I du CFA et je me prépare actuellement pour éventuellement passer le niveau II.</div>
 <br>Voir [certification CFA](https://credentials.cfainstitute.org/bac09a70-35c6-4d87-aa36-e27cf18d39cb#acc.5faA8k47) et [résultats d’examen](https://drive.google.com/file/d/1kF1zjifCWS4xEkIPQwWjd2xT3tD48cgx/view?usp=sharing) <br>
 <div style="text-align: justify;">
-J’ai fait un stage dans une firme de gestion d’actifs, où j’ai travaillé sur les opérations de portefeuille et l’analyse de données. J’ai construit des modèles pendant mes études. J’ai travaillé sur des problématiques concrètes d’investissement. Et j’ai fait des erreurs — mais j’apprends toujours.</div>
+J’ai fait deux stages chez deux firmes de gestion d’actifs, où j’ai travaillé sur les opérations de portefeuille et l’analyse de données. J’ai construit des modèles pendant mes études. J’ai travaillé sur des problématiques concrètes d’investissement. Et j’ai fait des erreurs — mais j’apprends toujours.</div>
 <br>
 J’apprends tout ce que je peux :
 
