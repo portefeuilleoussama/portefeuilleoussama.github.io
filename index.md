@@ -76,6 +76,6 @@ En tant que nouveau diplômé, je cherche une opportunité de stage ou de poste 
 Si vous êtes recruteur, mentor, ou simplement quelqu’un qui souhaite échanger, n’hésitez pas à me contacter !
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [Mon CV](https://drive.google.com/file/d/1gc_RH_2aPaaCFUqpT_NuXrTLgC-W_fnX/view?usp=drive_link)  
+📄 [Mon CV](https://drive.google.com/file/d/1rOfwu6xvTPSIVl6pEF2umm2R51KdhFKl/view?usp=drive_link)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
